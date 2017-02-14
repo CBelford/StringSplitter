@@ -1,0 +1,6 @@
+C:\Users\Christopher\AppData\Local\Temporary Projects\StringSplitter\bin\Debug\StringSplitter.exe.config
+C:\Users\Christopher\AppData\Local\Temporary Projects\StringSplitter\bin\Debug\StringSplitter.exe
+C:\Users\Christopher\AppData\Local\Temporary Projects\StringSplitter\bin\Debug\StringSplitter.pdb
+C:\Users\Christopher\AppData\Local\Temporary Projects\StringSplitter\obj\Debug\StringSplitter.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\AppData\Local\Temporary Projects\StringSplitter\obj\Debug\StringSplitter.exe
+C:\Users\Christopher\AppData\Local\Temporary Projects\StringSplitter\obj\Debug\StringSplitter.pdb
